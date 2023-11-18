@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Img">
+    <file>SettingShadow.png</file>
+    <file>Mask.png</file>
+    <file>pixiv_logo.png</file>
+    <file>DiaShadow.png</file>
+    <file>back.png</file>
+    <file>BookOff.png</file>
+    <file>back2.png</file>
+    <file>BookOn.png</file>
+    <file>errorpage.jpg</file>
+    <file>Nopic.png</file>
+  </qresource>
+</RCC>
